@@ -10,6 +10,7 @@ Usage:
 3. provide the absolute or relative path to the *.srt file in need of fixing
 4. provide the time when the firs line shuld apear
 5. provide the time when the last line shuld apear
+
 if everything worked as expected a new copy of the original *.srt file will be created beside it with ".out" apended to it's file name
 
 p.s. vlc doesn't like it when the filename ends with .out instead of .srt so I recommend renaming the output file accordingly =]

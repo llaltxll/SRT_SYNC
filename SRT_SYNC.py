@@ -47,7 +47,7 @@ for i in result:
     msTimeLine.append(couple)
 
 
-print "The firs subtitle that say's: '" + result[0][1][0].rstrip('\n') + "' appears now at: " + result[0][0][0]
+print "The firts subtitle that say's: '" + result[0][1][0].rstrip('\n') + "' appears now at: " + result[0][0][0]
 y1 = converToNum(raw_input("please give the correct value below \n"))
 x1 = converToNum(result[0][0][0])
 

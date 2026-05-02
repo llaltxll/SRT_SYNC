@@ -8,9 +8,7 @@ Usage:
 1. install python on your system and add it to PATH
 2. run the program by typing python SRT_SYNC.py in the comandline
 3. provide the absolute or relative path to the *.srt file in need of fixing
-4. provide the time when the firs line should apear
+4. provide the time when the first line should apear
 5. provide the time when the last line should apear
 
-if everything worked as expected a new copy of the *.srt file will be created beside original with ".out" apended to it's file name
-
-p.s. vlc doesn't like it when the filename ends with .out instead of .srt so I recommend renaming the output file accordingly =]
+if everything worked as expected a new copy of the *.srt file will be created beside the original with ".out" apended to it's file name
